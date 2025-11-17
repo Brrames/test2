@@ -18,17 +18,3 @@
 18 Blooming 2
 19 Blooming 2.5
 20 Rays 1
-21 Rays 1.5
-22 Rays 2
-23 Rays 2.5
-24 Rays 3
-25 Melody 1
-26 Melody 2
-27 Not Penger
-28 Slow Sweeps
-29 Final Chords 1
-30 Final Chords 1.5
-31 Finals Chords 2
-32 Final Chords 2.5
-33 Final Chords 3
-34 Final Chords 3.5
